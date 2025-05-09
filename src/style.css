@@ -3,8 +3,20 @@
 @tailwind utilities;
 
 @font-face {
+    font-family: 'Geist-bold';
+    src: url('/fonts/Geist-Bold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
     font-family: 'Geist-semibold';
     src: url('/fonts/Geist-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Geist-medium';
+    src: url('/fonts/Geist-Medium.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
@@ -32,3 +44,4 @@
     font-weight: 700;
     font-style: normal;
 }
+

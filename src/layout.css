@@ -1,0 +1,19 @@
+.container{
+   margin:0 auto;
+   max-width: 960px !important;
+   width: 90%;
+}
+
+.claim-section .card1 .gredient-block{
+    background: linear-gradient(112.86deg, rgba(255, 255, 255, 0.06) -6.68%, rgba(255, 255, 255, 0.018) 45.63%, rgba(255, 255, 255, 0.06) 103.45%);
+    box-shadow: 0px 0px 20px 0px #FFFFFF0F inset;
+}
+
+.community-section .community-card{
+    background: linear-gradient(112.86deg, rgba(255, 255, 255, 0.08) -6.68%, rgba(255, 255, 255, 0.024) 45.63%, rgba(255, 255, 255, 0.08) 103.45%);
+}
+
+.footer{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(112.86deg, rgba(255, 255, 255, 0.08) -6.68%, rgba(255, 255, 255, 0.024) 45.63%, rgba(255, 255, 255, 0.08) 103.45%);    
+}
